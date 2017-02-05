@@ -1,2 +1,3 @@
-# YetAnotherEmailChecker
-Yet another disposable email vaidation library
+# Yet Another Email Checker
+
+Yet another PHP library that helps you detect a disposable email address.
